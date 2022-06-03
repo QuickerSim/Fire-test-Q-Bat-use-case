@@ -11,7 +11,7 @@ The model will simulate battery’s behavior during fire test, which consists of
 ### :arrow_down: Please use this link instead of the download button: [Download link]() :arrow_down:
 
 
-Run UZUPELNIC.m and fire_test_live.mlx to get started 
+Run fire_test_model.m and fire_test_live.mlx to get started 
 * Please visit the [Q-Bat](https://www.mathworks.com/products/connections/product_detail/quickersim-q-bat.html) and [QuickerSim](https://emobility.quickersim.com/) 
 page to learn more about modeling heat transfer in 3-D systems.
 

@@ -2,7 +2,7 @@
 [![View Battery pack Simulink model with Q-Bat and Simscape on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/)
 
 
-### :arrow_down: Please use this link instead of the download button: [Download link]() :arrow_down:
+### :arrow_down: Please use this link instead of the download button: [Download link](https://github.com/QuickerSim/Fire-test-Q-Bat-use-case/releases/tag/1.0.0) :arrow_down:
 
 Run fire_test_model.m and fire_test_live.mlx to get started 
 * Please visit the [Q-Bat](https://www.mathworks.com/products/connections/product_detail/quickersim-q-bat.html) and [QuickerSim](https://emobility.quickersim.com/) 

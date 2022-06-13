@@ -1,5 +1,5 @@
 # Heat transfer during battery pack fire test modeled in Q-Bat 
-[![View Battery pack Simulink model with Q-Bat and Simscape on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/)
+[![View Battery pack Simulink model with Q-Bat and Simscape on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://nl.mathworks.com/matlabcentral/fileexchange/113195-fire-test-q-bat-use-case)
 
 
 ### :arrow_down: Please use this link instead of the download button: [Download link](https://github.com/QuickerSim/Fire-test-Q-Bat-use-case/releases/download/1.0.0/Fire-test-Q-Bat-use-case.zip) :arrow_down:
